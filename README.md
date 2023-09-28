@@ -1,6 +1,6 @@
 # Counter-Strike: Global Offensive Config Files
 
-![CS:GO Logo](https://cdn.cloudflare.steamstatic.com/apps/csgo/images/logo.png)
+![CS:GO Logo](https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/global/logo_cs_sm.svg)
 
 Welcome to my CS:GO / CS2 config files repository! Below, you'll find a collection of personal config files and settings to enhance your gaming experience in Counter-Strike: Global Offensive.
 
