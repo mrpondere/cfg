@@ -28,6 +28,14 @@ Before using these config files, make sure you have Counter-Strike: Global Offen
 4. Open console and type *exec* and the name of the file.
 5. The custom config settings should be applied.
 
+## Launch Options
+```
+  -language textmod -tickrate 128 -novid -high -refresh 240 -nod3d9ex -nojoy
+```
+### Textmod
+In order to use the textmod in cs2 you can follow this guide:
+[Text mod guide](https://gist.github.com/xPaw/056b29be7ae9c143ed623a9c4c10cf50)
+
 ## Usage
 
 ### 1v4 Bots Config (`1v4bots.cfg`)
